@@ -1,0 +1,9 @@
+# Gradio MCP Finance Server Requirements
+
+# Core dependencies
+gradio[mcp]>=4.0.0
+yfinance>=0.2.32
+requests>=2.31.0
+
+# Optional: for deployment
+uvicorn>=0.24.0
