@@ -1,5 +1,3 @@
-# mcp_finance_server
-
 
 # 📊 Gradio MCP Finance Server
 A complete **Model Context Protocol (MCP) server** for financial analysis tools,
